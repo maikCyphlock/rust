@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.linkedProjects": [
+    ".\\ownership03-practice\\Cargo.toml",
+    ".\\ownership03-practice\\Cargo.toml"
+  ]
+}
