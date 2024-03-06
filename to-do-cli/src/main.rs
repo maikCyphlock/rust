@@ -47,11 +47,11 @@ impl TodoList {
 fn main() {
     let mut todo_list = TodoList::new();
     loop {
-        println!("Enter your choice:");
-        println!("1. Add item");
-        println!("2. List items");
-        println!("3. Complete item");
-        println!("4. Exit");
+        println!("-------Enter your choice:");
+        println!("-------1. Add item");
+        println!("-------2. List items");
+        println!("-------3. Complete item");
+        println!("-------4. Exit");
 
         let mut choice = String::new();
         io::stdin()
